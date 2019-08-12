@@ -6,7 +6,7 @@ This repository contains python notebooks for my talk at ODSC India, 2019.
 
 ## [Colab link](https://colab.research.google.com/drive/1Hn5qQYChBZOYNN3SdbK966ht76D2SP1j)
 
-## [SlideShare] (https://www.slideshare.net/AkshayBahadur/open-data-science-conference-india-2019)
+## [SlideShare](https://www.slideshare.net/AkshayBahadur/open-data-science-conference-india-2019)
 
 ### [Python Notebook for the conference](https://nbviewer.jupyter.org/github/akshaybahadur21/ODSC-India-2019/blob/master/ODSC_India.ipynb)
 
