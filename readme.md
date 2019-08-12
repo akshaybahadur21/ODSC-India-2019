@@ -22,9 +22,6 @@ Kindly raise an issue if you want to discuss any problem in detail. Also, add me
 ### [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock)
 <img src="https://github.com/akshaybahadur21/Emojinator/blob/master/RPS.gif">
 
-### [Emojinator 2.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2)
-<img src="emo_v2.gif">
-
 ### Autopilot V1 (Udacity Dataset based on Udacity Simulator)
 <img src="https://github.com/akshaybahadur21/Autopilot/blob/master/final.gif">
 
